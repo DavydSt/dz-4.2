@@ -1,1 +1,1 @@
-const 
+const photo = document.querySelector(".slider__image");
